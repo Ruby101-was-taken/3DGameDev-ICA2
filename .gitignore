@@ -73,3 +73,6 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/Ruby_White_ICA2/Intermediate
+/Ruby_White_ICA2/Saved
+/Ruby_White_ICA2/DerivedDataCache
